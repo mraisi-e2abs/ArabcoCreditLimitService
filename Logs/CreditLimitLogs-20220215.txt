@@ -1,0 +1,5 @@
+
+
+Tue Feb 15 2022 03:43:30 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000015'"
+ 

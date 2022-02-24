@@ -1,0 +1,85 @@
+
+
+Wed Feb 23 2022 19:15:12 GMT+0200 (Eastern European Standard Time)-Customer: C000001
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000002
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000003
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000005
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000006
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000007
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000009
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000016
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:15:14 GMT+0200 (Eastern European Standard Time)-Customer: C000017
+"Property 'DebtLine' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:56 GMT+0200 (Eastern European Standard Time)-Customer: C000001
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000002
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000003
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000005
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000006
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000007
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000009
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000016
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 19:55:57 GMT+0200 (Eastern European Standard Time)-Customer: C000017
+"Property 'PayableLimit' of 'BusinessPartner' is invalid"
+ 
+
+Wed Feb 23 2022 20:00:45 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000015'"
+ 

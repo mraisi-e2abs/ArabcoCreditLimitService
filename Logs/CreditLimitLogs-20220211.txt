@@ -1,0 +1,33 @@
+
+
+Fri Feb 11 2022 06:08:20 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000015'"
+ 
+
+Fri Feb 11 2022 06:08:24 GMT+0200 (Eastern European Standard Time)-Customer: C000022
+"(-2020040902) 2020/4/9 ABS - You are Not Allowed to change the Commitment Limit"
+ 
+
+Fri Feb 11 2022 06:08:25 GMT+0200 (Eastern European Standard Time)-Customer: C000026
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000026'"
+ 
+
+Fri Feb 11 2022 06:09:25 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000015'"
+ 
+
+Fri Feb 11 2022 06:09:28 GMT+0200 (Eastern European Standard Time)-Customer: C000022
+"(-2020040902) 2020/4/9 ABS - You are Not Allowed to change the Commitment Limit"
+ 
+
+Fri Feb 11 2022 06:09:33 GMT+0200 (Eastern European Standard Time)-Customer: C000026
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000026'"
+ 
+
+Fri Feb 11 2022 06:10:50 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000015'"
+ 
+
+Fri Feb 11 2022 06:11:22 GMT+0200 (Eastern European Standard Time)-Customer: C000015
+"Commitment limit must be greater than credit limit  [OCRD.DebtLine] , 'C000015'"
+ 
